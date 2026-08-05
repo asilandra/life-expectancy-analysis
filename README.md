@@ -57,6 +57,12 @@ accessed via the official [`wbgapi`](https://pypi.org/project/wbgapi/) Python pa
 Python — `pandas`, `numpy`, `statsmodels`, `scipy`, `scikit-learn`, `seaborn`, 
 `matplotlib`, `wbgapi`
 
+## License
+
+Code in this repository is released under the MIT License (see `LICENSE`).
+
+Data sourced from the World Bank's World Development Indicators, released under 
+[CC BY 4.0](https://datacatalog.worldbank.org/public-licenses#cc-by).
 ## Notes
 
 Developed and executed in a Kaggle Notebook environment.
