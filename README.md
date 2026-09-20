@@ -49,6 +49,7 @@ accessed via the official [`wbgapi`](https://pypi.org/project/wbgapi/) Python pa
 ## Repository Structure
 
 ├── kv6015_analysis_clean.ipynb # Full analysis pipeline (13 sequential scripts)
+├── outputs/ # Result charts and processed data
 └── README.md
 
 
